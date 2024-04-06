@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="test-imgdoc2" Version="0.0.2" />
+    <PackageReference Include="test-imgdoc2.net" Version="0.0.9-alpha" />
   </ItemGroup>
 
 </Project>
