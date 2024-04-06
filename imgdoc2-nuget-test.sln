@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgdoc2-nuget-test", "imgdoc2-nuget-test\imgdoc2-nuget-test.csproj", "{8D69B3D7-E3A9-453D-B8F1-A9CE5F92B613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D69B3D7-E3A9-453D-B8F1-A9CE5F92B613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D69B3D7-E3A9-453D-B8F1-A9CE5F92B613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D69B3D7-E3A9-453D-B8F1-A9CE5F92B613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D69B3D7-E3A9-453D-B8F1-A9CE5F92B613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A749ADC-ED7D-4EB1-93F1-41F572B4A093}
+	EndGlobalSection
+EndGlobal
